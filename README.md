@@ -1,10 +1,13 @@
 # Threatened-Species-Project-SQL-PowerBI-
 ***In this project, I will analyze and visualize my data using SQL and PowerBI***
-#[View Dashboard](https://app.powerbi.com/reportEmbed?reportId=e5262ec9-ee14-4e77-aeb4-207d67cae8c6&autoAuth=true&ctid=6232b055-76b9-4c13-9b88-b562ae7db6fb)
+***I will use the dataset in this project to discover some aspects: year with the highest total of threatened species, number of different types of threatened species by year, top 5 countries and years with the highest number of total threatened species, kind of endangered species with the most significant proportion,...***
+
+
+# [View my Dashboard](https://app.powerbi.com/reportEmbed?reportId=e5262ec9-ee14-4e77-aeb4-207d67cae8c6&autoAuth=true&ctid=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 
 ## 1. About the project: Visualizing the number of different types of threatened species and the potential causes
 ###### a. Some highlighted features that I will use when I work with SQL: 
-- SELECT, SELECT DITINCT, SELECT TOP, FROM, WHERE, ORDER BY, GROUP BY
+- SELECT, SELECT DISTINCT, SELECT TOP, FROM, WHERE, ORDER BY, GROUP BY
 - AGGREGATION FUNCTION: MIN(), MAX(), SUM(), ROUND(), COUNT()
 - CREATE TABLE, INSERT INTO, **WITH AS**, **UNION**, **ISNULL**, UPDATE TABLE, ALTER TABLE, CAST()
 
