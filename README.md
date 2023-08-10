@@ -1,6 +1,5 @@
 # Threatened-Species-Project-SQL-PowerBI-
-***In this project, I will analyze and visualize my data using SQL and PowerBI***
-***I will use the dataset in this project to discover some aspects: year with the highest total of threatened species, number of different types of threatened species by year, top 5 countries and years with the highest number of total threatened species, kind of endangered species with the most significant proportion,...***
+Analyzing threatened animals is critical to comprehend the complexities of biodiversity loss and ecological balance. By delving into the factors contributing to the decline of these species, such as habitat degradation, poaching, and climate change, researchers can devise targeted conservation strategies
 
 
 # [View my Dashboard](https://app.powerbi.com/reportEmbed?reportId=e5262ec9-ee14-4e77-aeb4-207d67cae8c6&autoAuth=true&ctid=6232b055-76b9-4c13-9b88-b562ae7db6fb)
